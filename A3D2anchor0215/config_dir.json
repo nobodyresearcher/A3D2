@@ -1,0 +1,28 @@
+{
+  "apvit_folder": "/data3/js/TBD/apvit/APViT",
+  "apvit": "/data3/js/TBD/apvit/apvit_pretrained_raf.pth",
+  "wav2vec": "/data3/js/TBD/wav2vec",
+  "wavlm": "/data3/js/TBD/wavlm_base_plus",
+  "bert-uncased": "/data3/js/TBD/bert",
+  "roberta-base": "/data3/js/TBD/roberta_base",
+  "roberta-base-emo": "/data3/js/TBD/roberta_base_emo",
+  "vit": "/data3/js/TBD/vit-base-patch16-224",
+
+
+  "vision": {
+    "model": "APViT" 
+  },
+
+  "audio": {
+    "model": "wavlm"
+  },
+
+  "text":{
+    "model": "bert-uncased"
+  }
+
+
+}
+
+
+
